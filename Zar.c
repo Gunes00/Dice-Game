@@ -11,7 +11,7 @@ int main()
 
     while(i == 0)
     {
-        printf("Zar atayım mı ?: evet (e) hayır (h)\n");
+        printf("Zar atayım mı ?: (e)vet  (h)ayır\n");
         scanf("%c", &cevap);
 
         if(cevap == 'e')
